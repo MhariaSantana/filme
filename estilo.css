@@ -112,3 +112,19 @@ table {
     border-color: red;
 
 }
+.linha{
+    display: flex;
+}
+.resumo{
+    width: 400px;
+    color: white;
+    font-size: 18px;
+    font-family: Arial;
+    line-height: 22px;
+    margin-right: 50px;
+    text-align: justify;
+}
+.voltar{
+    color: white;
+    font-weight: bold;
+}
