@@ -82,6 +82,7 @@ table {
     width: 150px;
     text-align: center;
     text-transform: uppercase;
+    transform: scale(1.2);
 
 
 }
@@ -102,6 +103,7 @@ table {
     width: 150px;
     text-align: center;
     text-transform: uppercase;
+    transform: scale(1.2);
 
 }
 .botao-escuro:hover{
